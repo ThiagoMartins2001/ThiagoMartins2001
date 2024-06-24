@@ -8,27 +8,3 @@ Sobre mim
 
 📚 Studying Computer Science.
 ⭐ My favorite language so far is Java.
-
-Main technologies and tools
-
-!JavaScript
-!NodeJS
-!Java
-!Spring
-!Git
-!MySQL
-
-I'm interested
-
-!AWS
-!Kubernetes
-[!Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-!MySQL
-!Redis
-!Docker
-!Linux
-!Jira
-
-Contact me
-
-https://www.linkedin.com/in/thiago-martins-a7790b2b6/
