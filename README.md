@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Thiago Martins 👋</h1>
+<h1 align="center">Hey! I'm Thiago Martins 👋</h1>
 
 [English](README.md) | [Português](README-pt_br.md)
 
