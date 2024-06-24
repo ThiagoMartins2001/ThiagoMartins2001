@@ -2,14 +2,14 @@
 
 [English](README.md) | [Português](README-pt_br.md)
 
-Sou um desenvolvedor backend do Brasil.
+I'm a backend developer from Brazil.
 
 Sobre mim
 
-📚 Cursando Ciência da Computação.
-⭐ Minha linguagem favorita é Java.
+📚 Studying Computer Science.
+⭐ My favorite language so far is Java.
 
-Principais Tecnologias e ferramentas
+Main technologies and tools
 
 !JavaScript
 !NodeJS
@@ -18,7 +18,7 @@ Principais Tecnologias e ferramentas
 !Git
 !MySQL
 
-Tenho interesse
+I'm interested
 
 !AWS
 !Kubernetes
@@ -29,6 +29,6 @@ Tenho interesse
 !Linux
 !Jira
 
-Entre em contato
+Contact me
 
 https://www.linkedin.com/in/thiago-martins-a7790b2b6/
