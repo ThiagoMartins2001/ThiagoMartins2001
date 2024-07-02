@@ -4,7 +4,7 @@
 
 I'm a backend developer from Brazil.
 
-Sobre mim
+About me
 
 📚 Studying Computer Science.
 ⭐ My favorite language so far is Java.
