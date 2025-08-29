@@ -124,6 +124,14 @@ Me chamo "[Thiago Martins](https://www.instagram.com/_hey.martins_/)", tenho 23 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"          
 />
+<img 
+    align="left" 
+    alt="VSCode"
+    title="VSCode" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"          
+/>
 
 <br/>
 <br/>
