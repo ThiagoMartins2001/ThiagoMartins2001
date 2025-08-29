@@ -138,23 +138,16 @@ Me chamo "[Thiago Martins](https://www.instagram.com/_hey.martins_/)", tenho 23 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoMartins2001&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMartins2001&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center" width="100">
+    <img width="250" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoMartins2001=city_lights">
+    <img width="250" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoMartins2001&theme=city_lights">
+    <img width="250" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoMartins2001&theme=city_lights&utcOffset=-3">
+    <img width="250" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoMartins2001&theme=city_lights">
+    <img width="500" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoMartins2001&theme=city_lights">
 </p>
+<div align="center" width="100">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThiagoMartins2001&column=8&theme=nord&no-frame=true&margin-w=6&margin-h=10"/>
+</div>
 
 
 ###
