@@ -110,6 +110,14 @@ Tenho 24 anos, sou da cidade do Rio de Janeiro, atualmente estou cursando Ciênc
 />
 <img 
     align="left" 
+    alt="DBeaver"
+    title="DBeaver" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"          
+/>
+<img 
+    align="left" 
     alt="Postman"
     title="Postman" 
     width="30px" 
