@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor FullStack com foco em Java, bots e sistemas para jogos.
+# Desenvolvedor FullStack com foco em Java, bots e sistemas para jogos.
 Atuo como desenvolvedor Java na ADDAF, criando soluções práticas, organizadas e eficientes.
 Trabalho com sistemas, automações, integrações e ferramentas que realmente resolvem problemas no dia a dia.
 Gosto de transformar ideias em algo funcional, rápido e bem estruturado, sempre com atenção ao desempenho e à lógica.
