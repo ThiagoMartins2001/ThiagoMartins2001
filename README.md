@@ -2,7 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 24 anos, sou da cidade do Rio de Janeiro, atualmente estou cursando Ciência da Computação na Estácio.
+Desenvolvedor FullStack com foco em Java, bots e sistemas para jogos.
+Atuo como desenvolvedor Java na ADDAF, criando soluções práticas, organizadas e eficientes.
+Trabalho com sistemas, automações, integrações e ferramentas que realmente resolvem problemas no dia a dia.
+Gosto de transformar ideias em algo funcional, rápido e bem estruturado, sempre com atenção ao desempenho e à lógica.
+
+Se a necessidade é criar, aprimorar ou automatizar, posso entregar uma solução sólida e direta.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagomartinssobral/)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/_hey.martins_/)
