@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Thiago Martins
 
-**`Desenvolvedor FullStack`**
-
 ### Desenvolvedor FullStack com foco em Java, bots e sistemas para jogos.
 Atuo como desenvolvedor Java na ADDAF, criando soluções práticas, organizadas e eficientes.
 Trabalho com sistemas, automações, integrações e ferramentas que realmente resolvem problemas no dia a dia.
