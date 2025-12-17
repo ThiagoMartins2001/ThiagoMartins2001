@@ -121,6 +121,14 @@ Se a necessidade é criar, aprimorar ou automatizar, posso entregar uma soluçã
 />
 <img 
     align="left" 
+    alt="Oracle"
+    title="Oracle" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"          
+/>
+<img 
+    align="left" 
     alt="Postman"
     title="Postman" 
     width="30px" 
