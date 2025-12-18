@@ -4,7 +4,7 @@
 Atuo como desenvolvedor Java na ADDAF, criando soluções práticas, organizadas e eficientes.
 Trabalho com sistemas, automações, integrações e ferramentas que realmente resolvem problemas no dia a dia.
 Gosto de transformar ideias em algo funcional, rápido e bem estruturado, sempre com atenção ao desempenho e à lógica.
-
+ 
 Se a necessidade é criar, aprimorar ou automatizar, posso entregar uma solução sólida e direta.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagomartinssobral/)
