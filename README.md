@@ -150,11 +150,11 @@ Se a necessidade é criar, aprimorar ou automatizar, posso entregar uma soluçã
 ### 📊 Estatísticas
 
 <p>
-    <img width="250" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoMartins2001&theme=city_lights&include_all_commits=true">
-    <img width="250" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoMartins2001&theme=city_lights&include_all_commits=true">
-    <img width="250" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoMartins2001&theme=city_lights&include_all_commits=true&utcOffset=-3">
-    <img width="250" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoMartins2001&theme=city_lights&include_all_commits=true">
-    <img width="500" height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoMartins2001&theme=city_lights&include_all_commits=true">
+    <img width="250" height="150" src="profile-summary-card-output/city_lights/2-most-commit-language.svg">
+    <img width="250" height="150" src="profile-summary-card-output/city_lights/3-stats.svg">
+    <img width="250" height="150" src="profile-summary-card-output/city_lights/4-productive-time.svg">
+    <img width="250" height="150" src="profile-summary-card-output/city_lights/1-repos-per-language.svg">
+    <img width="500" height="150" src="profile-summary-card-output/city_lights/0-profile-details.svg">
 
 </p>
 
