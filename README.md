@@ -39,6 +39,7 @@ Aqui no GitHub você encontrará projetos voltados a backend, sistemas web e est
 
 **Banco de Dados**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/>
 
 <br/>
 
