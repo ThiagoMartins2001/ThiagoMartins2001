@@ -8,7 +8,7 @@ Minha trajetória em tecnologia começou com o desenvolvimento de scripts e sist
 Tenho experiência com **React e Next.js** no frontend, além de ferramentas como **Docker** para padronização de ambientes. Também possuo vivência prévia com suporte e infraestrutura de TI, o que influencia minha forma de pensar sistemas, considerando aspectos como **segurança, disponibilidade e manutenção** desde a arquitetura.
 
 Aqui no GitHub você encontrará projetos voltados a backend, sistemas web e estudos práticos em engenharia de software.
-
+ 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagomartinssobral/)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/_hey.martins_/)
 [![Instagram](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/U5yCZVmrqW)
