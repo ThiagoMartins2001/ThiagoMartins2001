@@ -57,18 +57,6 @@ Aqui no GitHub você encontrará projetos voltados a backend, sistemas web e est
 ---
 
 
-### 📊 Estatísticas
-
-<p>
-    <img width="250" height="150" src="https://raw.githubusercontent.com/ThiagoMartins2001/ThiagoMartins2001/main/profile-summary-card-output/city_lights/2-most-commit-language.svg?include_private=true">
-    <img width="250" height="150" src="https://raw.githubusercontent.com/ThiagoMartins2001/ThiagoMartins2001/main/profile-summary-card-output/city_lights/3-stats.svg">
-    <img width="250" height="150" src="https://raw.githubusercontent.com/ThiagoMartins2001/ThiagoMartins2001/main/profile-summary-card-output/city_lights/4-productive-time.svg">
-    <img width="250" height="150" src="https://raw.githubusercontent.com/ThiagoMartins2001/ThiagoMartins2001/main/profile-summary-card-output/city_lights/1-repos-per-language.svg">
-    <img width="500" height="150" src="https://raw.githubusercontent.com/ThiagoMartins2001/ThiagoMartins2001/main/profile-summary-card-output/city_lights/0-profile-details.svg">
-
-</p>
-
-
 ###
 
 <br clear="both">
