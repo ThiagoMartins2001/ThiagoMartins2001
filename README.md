@@ -3,7 +3,7 @@
 ### Desenvolvedor de Software com foco em Backend e aplicações web.
 
 Atuo como **Desenvolvedor de Software**, com foco em backend e construção de soluções organizadas, eficientes e escaláveis. Trabalho no desenvolvimento de sistemas, automações e aplicações web que resolvem problemas reais, sempre com atenção à lógica, desempenho e qualidade do código.
-
+ 
 Minha trajetória em tecnologia começou com o desenvolvimento de scripts e sistemas para jogos, experiência que contribuiu para uma base sólida em lógica de programação e resolução de problemas. Atualmente, concentro minha atuação no desenvolvimento de aplicações utilizando **C#**, **.NET**, **SQL Server** e **Vue.js**, além de possuir experiência com **Java**, **Spring Boot** e desenvolvimento de **APIs REST**.
 
 Tenho experiência com **React**, **Next.js**, **Docker** e ambientes **Linux**, além de vivência em suporte e infraestrutura de TI. Essa combinação contribui para uma visão mais ampla do desenvolvimento de software, considerando aspectos como **organização, manutenção, segurança e desempenho** desde a arquitetura das aplicações.
